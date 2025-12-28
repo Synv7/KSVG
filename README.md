@@ -1,2 +1,0 @@
-# KSVG
-Radio Station
